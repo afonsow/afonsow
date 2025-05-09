@@ -1,4 +1,4 @@
-# Afonso-Ribeiro
+# Afonso Ribeiro
 
 <h2 align="center">Hello! I'm Afonso Ribeiro!"</h2>
 
