@@ -1,5 +1,3 @@
-# Afonso Ribeiro
-
 <h2 align="center">Hello! I'm Afonso Ribeiro!"</h2>
 
 <p align="center">
