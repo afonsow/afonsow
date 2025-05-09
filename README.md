@@ -38,6 +38,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="SQL" width="40" height="40"/>
+  </a>
 
 </p>
 
