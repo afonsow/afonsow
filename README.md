@@ -1,5 +1,4 @@
 # Afonso-Ribeiro
-Profile config file
 
 <h2 align="center">Hello! I'm Afonso Ribeiro!"</h2>
 
