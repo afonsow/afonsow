@@ -1,7 +1,7 @@
 <h2 align="center">Hello! I'm Afonso Ribeiro!"</h2>
 
 <p align="center">
-  <em>A 3rd-year student at Minho University, completing a degree in Telecommunications and Informatics, Guimarães, Portugal</em>
+  <em>A 3rd-year student at Universidade do Minho, completing a degree in Telecommunications and Informatics, Guimarães, Portugal</em>
 </p>
 
 ---
